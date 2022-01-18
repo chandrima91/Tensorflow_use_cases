@@ -1,4 +1,4 @@
-# Programming_first
+# Tensorflow_use_cases
 This is a few projects done by using Keras API for Tensorflow
 
 1. A CNN image classifier to identify items of clothing implemented on the Fashion MNIST dataset
